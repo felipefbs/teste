@@ -1,0 +1,21 @@
+_id: req_b5514c31c3a84dc78c6fabc6bc10ef38
+type: Request
+parentId: fld_3099f7d19d224f48a97a0b3925ff6a80
+modified: 1658844010537
+created: 1658844010537
+url: https://randomuser.me/api/
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1658844010537
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
